@@ -19,11 +19,9 @@ O projeto foi construído com base no conteúdo do <a href="https://www.nodestud
 <h3 id="tela_desktop">Tela para desktop</h3>
 <p align="center">
   <img style="border-radius: 5px" height="300" src="./gifs/desktop.gif" alt="Tela desktop">
-  <img style="border-radius: 5px" height="300" src="./gifs/celular.gif" alt="Tela celular">
 </p>
 <h3 id="tela_celular">Tela para celular</h3>
 <p align="center">
-  <img style="border-radius: 5px" height="300" src="./gifs/desktop.gif" alt="Tela desktop">
   <img style="border-radius: 5px" height="300" src="./gifs/celular.gif" alt="Tela celular">
 </p>
 
